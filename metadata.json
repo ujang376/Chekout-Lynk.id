@@ -1,0 +1,5 @@
+{
+  "name": "Digital Product Checkout",
+  "description": "A checkout page for purchasing a digital product. Fill out your details to complete the purchase via WhatsApp.",
+  "requestFramePermissions": []
+}
